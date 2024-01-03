@@ -1,0 +1,255 @@
+= Alexandru Marincu
+:imagesdir: assets/img
+
+[cols="2a,^.^1a", frame=none, grid=none]
+|===
+|
+[horizontal]
+:: Lacului 12C, Timișoara, Timiș, Romania
+:: +40721925665
+:: alex.marincu@gmail.com
+󰌻:: https://www.linkedin.com/in/alexmarincu[linkedin]
+:: https://github.com/alexmarincu[github]
+|
+image::profile-pic.png[Profile picture, width=150, align="center"]
+|===
+
+[cols="2a,1a", frame=none, grid=none]
+|===
+|
+=== EXPERIENCE
+
+==== SW Team Leader
+
+[horizontal]
+:: _Continental Automotive, Timișoara (Romania)_
+󰃭:: _SEP 2022 - PRESENT_
+
+==== Scrum Master
+
+[horizontal]
+:: _Continental Automotive, Timișoara (Romania)_
+󰃭:: _JAN 2021 - PRESENT_
+
+--
+* Scrum master role in one of the teams working on the tachograph device software;
+* Project level metrics;
+* Involvement in JIRA workflow setup.
+--
+
+==== Embedded Software Developer
+
+[horizontal]
+:: _Continental Automotive, Timișoara (Romania)_
+󰃭:: _DEC 2017 - PRESENT_
+
+--
+* Develop new features / investigate and fix bugs in software for tachograph devices.
+--
+
+|
+****
+.  Tools
+--
+image::c.png[C]
+image::kotlin.png[Kotlin]
+image::python.png[Python]
+image::git.png[Git]
+image::github.png[GitHub]
+image::vscode.png[VSCode]
+image::linux.png[Linux]
+image::android.png[Android]
+--
+
+.󰨇  Projects
+* https://github.com/alexmarincu/Cbject[Cbject]
+* https://github.com/alexmarincu/tiva-playground[Tiva playground]
+* https://github.com/alexmarincu/hacker-calculator[Hacker Calculator]
+* https://play.google.com/store/apps/details?id=com.amprogrammer.pocketsongbook[Pocket Songbook]
+
+.󰄤  Certifications
+* https://bcert.me/svuriibgd[Certified Scrum Master]
+
+.  Languages
+* Romanian (native)
+* English (advanced)
+****
+|
+==== Software Developer Trainee
+
+[horizontal]
+:: _Continental Automotive, Timișoara (Romania)_
+󰃭:: _SEP 2017 - DEC 2020_
+
+--
+Intensive training in embedded software development with the following topics:
+
+* Embedded software development know-how;
+* C programming;
+* Integrated analog and digital circuits;
+* Microcontrollers;
+* Software development process.
+--
+
+==== Structural Engineer
+
+[horizontal]
+:: _Sellm, Timișoara (Romania)_
+󰃭:: _MAY 2015 - SEP 2017_
+
+--
+* Structural design and analysis of civil and industrial buildings;
+* Technical documentation and calculation reports;
+* Technical drawings;
+* On-site engineering.
+--
+
+==== Junior Engineer
+
+[horizontal]
+:: _Incontro Prefabbricati, Timișoara (Romania)_
+󰃭:: _MAY 2015 - SEP 2017_
+
+--
+* On-site engineering;
+* Reports of activity on construction site;
+* Measurement Books for Bill of Quantities, Material Approval Forms and Method of Statement about the works done on construction site;
+* Presenting and discussing the above-mentioned documents with consultants of the client;
+* Updating the project planning according to the situation on-site.
+--
+|
+|
+==== Structural Engineer
+
+[horizontal]
+:: _Freelancing_
+󰃭:: _JAN 2014 - PRESENT_
+
+--
+* Collaborations with different building design engineering firms;
+* Structural design and analysis of civil and industrial buildings;
+* Technical documentation and calculation reports;
+* Technical drawings.
+--
+
+==== Research Assistant
+
+[horizontal]
+:: _Polytechnic University, Timișoara (Romania)_
+󰃭:: _DEC 2013 - JUN 2014_
+
+--
+* Research involving the prequalification of beam-to-column joints for multi-story steel structures;
+* Development of analysis models using OpenSees software, Tcl programming language, and SIMULIA Abaqus FEA software;
+* Statistical analysis of data using R programming language and Matlab.
+--
+
+==== Erasmus placement during Masters Degree
+
+[horizontal]
+:: _Federico II University, Naples (Italy)_
+󰃭:: _JUL 2013 - SEP 2013_
+
+--
+* Structural design and analysis of steel multi-story buildings;
+* Seismic performance assessment of steel moment-resisting frames having rigid full-strength or semi-rigid partial-strength joints;
+* Development of analysis models using OpenSees software, Tcl programming language, and SAP2000 software;
+* Statistical analysis of data using the R programming language.
+--
+|
+|
+==== Structural Engineer
+
+[horizontal]
+:: _Cimam, Timișoara (Romania)_
+󰃭:: _SEP 2012 - MAY 2013_
+
+--
+* Structural design and analysis of civil and industrial buildings;
+* Technical documentation and calculation reports;
+* Technical drawings.
+--
+
+=== EDUCATION
+
+==== Master of Science - Advanced Design of Steel and Composite Structures
+
+[horizontal]
+:: _Polytechnic University, Timișoara (Romania)_
+󰃭:: _2012 - 2014_
+
+==== Bachelor of Science - Civil Engineering
+
+[horizontal]
+:: _Polytechnic University, Timișoara (Romania)_
+󰃭:: _2008 - 2012_
+
+==== Computer programmer and operator
+
+[horizontal]
+:: _Grigore Moisil High School, Timișoara (Romania)_
+󰃭:: _2004 - 2008_
+
+--
+Mathematics & IT
+--
+
+=== COURSES
+
+==== Certified Scrum Master
+
+[horizontal]
+:: _learningconnexions.com - Colin Bird, Jem Jelly_
+󰃭:: _OCT 2020_
+
+--
+Agile methodology, Scrum guide, preparation for Certified Scrum Master exam.
+--
+|
+|
+==== Design Patterns
+
+[horizontal]
+:: _memIQ - Dorin Mancu_
+󰃭:: _DEC 2019_
+
+--
+Object-oriented design principles.
+--
+
+==== The Complete Android Oreo Developer Course
+
+[horizontal]
+:: _udemy.com - Rob Percival, Nick Walter_
+󰃭:: _2018_
+
+--
+A course about Android App Development.
+--
+
+==== Introduction to Computer Science
+
+[horizontal]
+:: _edx.org - Harvard University_
+󰃭:: _2017_
+
+--
+C programming, Python, introduction to HTML, CSS, SQL.
+--
+
+==== Computing for Data Analysis
+
+[horizontal]
+:: _coursera.org - Johns Hopkins University_
+󰃭:: _2012_
+
+--
+Introduction to R programming and data analysis.
+--
+
+==== Others
+
+* PCM (Process Communication Model)
+* Unit Testing
+|
+|===

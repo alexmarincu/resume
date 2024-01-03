@@ -1,0 +1,11 @@
+extends: default
+font:
+    catalog:
+        merge: true
+        JetBrainsMonoNerdFont:
+            normal: JetBrainsMonoNerdFont-Regular.ttf
+            bold: JetBrainsMonoNerdFont-Bold.ttf
+            italic: JetBrainsMonoNerdFont-Italic.ttf
+            bold_italic: JetBrainsMonoNerdFont-BoldItalic.ttf
+base:
+    font_family: JetBrainsMonoNerdFont

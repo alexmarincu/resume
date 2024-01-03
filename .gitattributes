@@ -1,0 +1,13 @@
+# Git Line Endings -------------------------------------------------------------
+# Set default behaviour to automatically normalize line endings.
+* text=auto
+
+# Binaries ---------------------------------------------------------------------
+# Docs
+*.pdf binary
+
+# Images
+*.png binary
+
+# Fonts
+*.ttf binary
