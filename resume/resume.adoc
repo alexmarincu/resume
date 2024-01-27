@@ -19,6 +19,12 @@ image::profile-pic.png[Profile picture, width=150, align="center"]
 |
 === EXPERIENCE
 
+==== Software Architect
+
+[horizontal]
+:: _Continental Automotive, Timișoara (Romania)_
+󰃭:: _JAN 2024 - PRESENT_
+
 ==== SW Team Leader
 
 [horizontal]
@@ -29,7 +35,7 @@ image::profile-pic.png[Profile picture, width=150, align="center"]
 
 [horizontal]
 :: _Continental Automotive, Timișoara (Romania)_
-󰃭:: _JAN 2021 - PRESENT_
+󰃭:: _JAN 2021 - JAN 2024_
 
 --
 * Scrum master role in one of the teams working on the tachograph device software;
