@@ -7,7 +7,7 @@
 [horizontal]
 :: Lacului 12C, Timișoara, Timiș, Romania
 :: +40721925665
-:: alex.marincu@gmail.com
+:: alex.marincu [at] gmail.com
 󰌻:: https://www.linkedin.com/in/alexmarincu[linkedin]
 :: https://github.com/alexmarincu[github]
 |
